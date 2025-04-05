@@ -1,0 +1,3 @@
+Install packages 
+pip install joblib scikit-learn fuzzywuzzy pdfminer.high_level docx2txt flask flask_login pymongo dotenv re pandas PyPDF2 docx spacy duckduckgo_search werkzeug.utils werkzeug.security
+
